@@ -59,13 +59,12 @@ In order to see all available themes, do:
 
 ## LAUNCHING FISH AT EACH START OF ITERM
 to make fish your default shell, add the line **/usr/local/bin/fish** at the very top of /etc/shells file :
-```
-sudo nano /etc/shells
-```
+
+```sudo nano /etc/shells```
+
 and execute 
-```
-chsh -s /usr/local/bin/fish
-```
+
+```chsh -s /usr/local/bin/fish```
 
 ## REINSTALLATION
 
