@@ -48,11 +48,6 @@ You can get started right away with the default setup by running this in your te
 ```curl -L https://get.oh-my.fish | fish```
 
 This will download the installer script and start the installation.
-Alternatively, you can download the installer and customize your install:
-
-```curl -L https://get.oh-my.fish > install```
-
-```fish install --path=~/.local/share/omf --config=~/.config/omf```
 
 Oh My Fish includes a small utility omf to fetch and install new packages and themes.
 
@@ -61,6 +56,11 @@ Oh My Fish includes a small utility omf to fetch and install new packages and 
 In order to see all available themes, do:
 
 ```omf theme```
+
+## REINSTALLATION
+
+```curl -L https://get.oh-my.fish > install```
+```fish install --path=~/.local/share/omf --config=~/.config/omf```
 
 Enjoy :)
 
