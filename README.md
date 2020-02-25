@@ -36,6 +36,8 @@ or if you have already brew installed
  * Download: https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
  * Save as file material-design-colors.itermcolors
  * Go in preferences > Profiles > Colors > Import in colors presets the file and select it by his name
+ * For launch iterm2 with saved window arrangement : 
+![alt text](https://github.com/nicolastrote/how-to-configurate-Oh-My-Fish/blob/master/ntrote-iterm2.png)
   
 
 ## INSTALLATION FISH
