@@ -74,5 +74,20 @@ and execute
 
 ```fish install --path=~/.local/share/omf --config=~/.config/omf```
 
+## VARIABLE D'ENVIRONNEMENT
+
+exemple : 
+```
+nano ~/.bash_profile
+```
+ecrire des chemins :
+`export PATH=$PATH:$ANDROID_HOME/tools`
+
+.bash_profile est specific à bash.
+Donc pour l'importer dans fish ou un autre terminal, tapper: 
+```
+source $HOME/.bash_profile 
+```
+
 Enjoy :)
 
